@@ -9,7 +9,7 @@ Dissertation defense will incur as appropriate with ongoing academic commitments
 
 # Published Works (March 2025)
 
-1. **Algorithmic Accountability in Small Data: Sample-Size-Induced Bias in Confusion-Matrix Metrics**  
+1. **Algorithmic Accountability in Small Data: Sample-Size-Induced Bias within Classification Metrics**  
    *Jarren Briscoe, Garrett Kepler, Daryl Robert DeFord, Assefaw Gebremedhin*  
    *The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)*
    

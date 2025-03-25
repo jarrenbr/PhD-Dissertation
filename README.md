@@ -3,6 +3,10 @@ This repository serves as an overview of my doctoral work. "Dissertation Proposa
 
 [Google Scholar](https://scholar.google.com/citations?user=xncWH7MAAAAJ)
 
+# Timeline
+
+Dissertation defense will incur as appropriate with ongoing academic commitments, expected fall 2025.
+
 # Published Works (March 2025)
 
 1. **Sample-Size-Induced Bias in Confusion-Matrix Metrics**  

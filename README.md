@@ -1,5 +1,5 @@
 # Purpose
-This repository serves as an overview of my doctoral work. "Dissertation Proposal.pdf" is the most comprehensive document of my published and ongoing doctoral work. Other progress and work (especially that done after my proposal) will be available at a later date.
+This repository serves as an overview of my doctoral work. "Dissertation Proposal.pdf" (November 2024) is the most comprehensive document of my published and ongoing doctoral work. Subsequent progress and other work will be available at a later date.
 
 [Google Scholar](https://scholar.google.com/citations?user=xncWH7MAAAAJ)
 
@@ -36,6 +36,8 @@ Dissertation defense will incur as appropriate with ongoing academic commitments
    DOI: [10.5220/0010657800003064](https://doi.org/10.5220/0010657800003064)
 
 # Notable Ongoing Works (March 2025)
+
+Some accomplished work on these projects is available in my proposal.
 
 1. Multi-modal probabilistic forecasting
 2. Formalizing properties of bias metrics

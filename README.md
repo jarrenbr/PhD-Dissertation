@@ -5,7 +5,7 @@ This repository serves as an overview of my doctoral work. "Dissertation Proposa
 
 # Timeline
 
-Dissertation defense will incur as appropriate with ongoing academic commitments, expected fall 2025.
+Dissertation defense will incur as appropriate with ongoing academic commitments, expected spring 2026.
 
 # Published Works (March 2025)
 
@@ -39,6 +39,7 @@ Dissertation defense will incur as appropriate with ongoing academic commitments
 
 Some accomplished work on these projects is available in my proposal.
 
-1. Multi-modal probabilistic forecasting
-2. Formalizing properties of bias metrics
-3. Survey and analyses on time-series similarity measures
+1. Virtues of Large Language Models
+2. Multi-modal probabilistic forecasting
+3. Formalizing properties of bias metrics
+4. Survey and analyses on time-series similarity measures

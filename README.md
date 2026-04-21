@@ -1,13 +1,11 @@
 # Purpose
-This repository serves as an overview of my doctoral work. "Dissertation Proposal.pdf" (November 2024) is the most comprehensive document of my published and ongoing doctoral work. Subsequent progress and other work will be available at a later date.
+This repository serves as an overview of my doctoral work. "Dissertation.pdf" (April 2026) is a complete draft, but does not contain all of my work.
 
 [Google Scholar](https://scholar.google.com/citations?user=xncWH7MAAAAJ)
 
-# Timeline
 
-Dissertation defense will incur as appropriate with ongoing academic commitments, expected spring 2026.
 
-# Published Works (March 2025)
+# Published Works (April 2026)
 
 1. **Algorithmic Accountability in Small Data: Sample-Size-Induced Bias within Classification Metrics**  
    *Jarren Briscoe, Garrett Kepler, Daryl Robert DeFord, Assefaw Gebremedhin*  
@@ -35,11 +33,14 @@ Dissertation defense will incur as appropriate with ongoing academic commitments
    *Proceedings of the 13th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (KEOD 2021)*  
    DOI: [10.5220/0010657800003064](https://doi.org/10.5220/0010657800003064)
 
-# Notable Ongoing Works (March 2025)
+# Papers Under Submission
+1. **Beyond 1-NN Accuracy: Objective-Informed Benchmarking of Time Series Similarity Measures**
+  ***Jarren Briscoe***, Lubah Nelson, Diane J. Cook, Assefaw Gebremedhin**
+3. **Fairness in Classification: Bridging Social Choice Theory and Machine Learning Fairness**
+   ***Jarren Briscoe**, Daryl DeFord, Diane J. Cook, Assefaw Gebremedhin**
+   
 
-Some accomplished work on these projects is available in my proposal.
+# Notable Ongoing Works
 
 1. Virtues of Large Language Models
 2. Multi-modal probabilistic forecasting
-3. Formalizing properties of bias metrics
-4. Survey and analyses on time-series similarity measures

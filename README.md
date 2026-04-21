@@ -34,12 +34,11 @@ This repository serves as an overview of my doctoral work. "Dissertation.pdf" (A
    DOI: [10.5220/0010657800003064](https://doi.org/10.5220/0010657800003064)
 
 # Papers Under Submission
-1. **Beyond 1-NN Accuracy: Objective-Informed Benchmarking of Time Series Similarity Measures**
-  ***Jarren Briscoe***, Lubah Nelson, Diane J. Cook, Assefaw Gebremedhin**
-3. **Fairness in Classification: Bridging Social Choice Theory and Machine Learning Fairness**
-   ***Jarren Briscoe**, Daryl DeFord, Diane J. Cook, Assefaw Gebremedhin**
+1. **Beyond 1-NN Accuracy: Objective-Informed Benchmarking of Time Series Similarity Measures**  
+  ***Jarren Briscoe***, Lubah Nelson, Diane J. Cook, Assefaw Gebremedhin**  
+3. **Fairness in Classification: Bridging Social Choice Theory and Machine Learning Fairness**  
+   ***Jarren Briscoe**, Daryl DeFord, Diane J. Cook, Assefaw Gebremedhin**  
    
-
 # Notable Ongoing Works
 
 1. Virtues of Large Language Models

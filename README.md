@@ -1,5 +1,5 @@
 # Purpose
-This repository serves as an overview of my doctoral work. "Dissertation.pdf" (April 2026) is a complete draft, but does not contain all of my work.
+This repository serves as an overview of my doctoral work.
 
 [Google Scholar](https://scholar.google.com/citations?user=xncWH7MAAAAJ)
 

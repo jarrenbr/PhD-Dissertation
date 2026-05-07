@@ -5,7 +5,7 @@ This repository serves as an overview of my doctoral work.
 
 
 
-# Published First-Author Works (April 2026)
+# Published First-Author Works (May 2026)
 
 1. **Algorithmic Accountability in Small Data: Sample-Size-Induced Bias within Classification Metrics**  
    ***Jarren Briscoe**, Garrett Kepler, Daryl Robert DeFord, Assefaw Gebremedhin*  

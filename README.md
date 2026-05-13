@@ -1,8 +1,7 @@
 # Purpose
-This repository serves as an overview of my doctoral work.
+This repository serves as an overview of my doctoral work. 
 
-[Google Scholar](https://scholar.google.com/citations?user=xncWH7MAAAAJ)
-
+I'm working on a Streamlit fairness dashboard that leverages some of my research here: [https://fairness-dashboard.streamlit.app/](https://fairness-dashboard.streamlit.app/).
 
 
 # Published First-Author Works (May 2026)
